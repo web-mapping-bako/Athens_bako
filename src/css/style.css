@@ -1,15 +1,15 @@
 body {
     margin: 0;
     text-align: center;
-    font-family: 'Merriweather', serif
+    font-family: 'Handjet', serif
 }
 
 h1 { 
     margin: 10px auto 0 auto;
-    font-family: 'Sacramento', cursive;
-    font-size: 1.62rem;
+    font-family: 'Preahvihear';
+    font-size: 1.3rem;
     /* 100% is equal to 16px, so 90px is equal ~to 562% */
-    line-height: 2;
+    line-height: 1;
 }
 
 #map {
@@ -23,6 +23,7 @@ h1 {
     background-color: #6e7faf;
     position: relative;
     padding-top: 1px;
+
 }
 
 
